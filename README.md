@@ -1,3 +1,3 @@
 # monkeybusiness
 
-[A simple Scratch game](https://linustws.github.io/monkeybusiness/){target="_blank"}
+[A simple Scratch game](https://linustws.github.io/monkeybusiness/)
