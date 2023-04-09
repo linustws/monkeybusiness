@@ -2,4 +2,4 @@
 
 [A simple Scratch game](https://scratch.mit.edu/projects/561229772/)
 
-[Scratch to HTML file for GitHub pages](https://packager.turbowarp.org/)
+[Scratch to HTML file converter for GitHub pages](https://packager.turbowarp.org/)
