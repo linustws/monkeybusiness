@@ -1,4 +1,4 @@
-# 🐒 monkeybusiness
+# 🐵 monkeybusiness
 
 [A simple Scratch game](https://scratch.mit.edu/projects/561229772/)
 
